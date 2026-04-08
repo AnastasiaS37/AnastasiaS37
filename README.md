@@ -12,7 +12,7 @@
 – SkillSwap - Social Network for Skill Exchange
 
 ## ✉️ Contact
-– Email: anastasia.ser.sorokina@gmail.com
+anastasia.ser.sorokina@gmail.com
 
 <!--
 **AnastasiaS37/AnastasiaS37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
