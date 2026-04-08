@@ -1,7 +1,7 @@
 ## Hi, I'm Anastasia, Frontend Developer 👩‍💻
 
 ## 📗 Tech Stack
-– JavaScript (ES6+), TypeScript
+– JavaScript (ES6+), TypeScript<br>
 – React
 – HTML5, CSS3
 – Git
