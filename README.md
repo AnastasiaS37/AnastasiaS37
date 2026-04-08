@@ -2,14 +2,14 @@
 
 ## 📗 Tech Stack
 – JavaScript (ES6+), TypeScript<br>
-– React
-– HTML5, CSS3
-– Git
-– REST APIs
-– Python
+– React<br>
+– HTML5, CSS3<br>
+– Git<br>
+– REST APIs<br>
+– Python<br>
 
 ## 🐙 My projects
-– SkillSwap – Social Network for Skill Exchange
+– SkillSwap - Social Network for Skill Exchange
 
 ## ✉️ Contact
 - Email: anastasia.ser.sorokina@gmail.com
