@@ -1,4 +1,4 @@
-## Hi, I'm Anastasia, Frontend Developer 👩‍💻
+## I'm Anastasia, Frontend Developer 👩‍💻
 
 ## 📗 Tech Stack
 – JavaScript (ES6+), TypeScript<br>
