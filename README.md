@@ -1,12 +1,23 @@
 ## I'm Anastasia, Frontend Developer 👩‍💻
 
 ## 📗 Tech Stack
+**Languages:**
 – JavaScript (ES6+), TypeScript<br>
-– React<br>
-– HTML5, CSS3<br>
-– Git<br>
-– REST APIs<br>
 – Python<br>
+– React, React Router, Redux<br>
+– HTML5, CSS3<br>
+**Tools:**
+– Git<br>
+– Webpack<br>
+– Figma<br>
+**Architecture & Concepts:**
+– Component-based architecture
+– OOP principles
+* Design patterns
+– REST APIs<br>
+
+    Frontend: React, React Router, Redux
+* Web: HTML5, CSS3, REST APIs
 
 ## 🐙 My projects
 – SkillSwap - Social Network for Skill Exchange
