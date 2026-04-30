@@ -5,13 +5,13 @@ I combine a technical mindset with a strong understanding of user needs and prod
 Logic, clarity, and structure are an important part of my development process. I enjoy building functional and visually appealing interfaces, with a focus on clean and maintainable code.
 
 ## 📗 Tech Stack
-**Languages:** JavaScript (ES6+), TypeScript, Python
-**Frontend:** React, React Router, Redux
-**Web:** HTML5, CSS3, REST APIs
-**Tools:** Git, Webpack, Figma
+**Languages:** JavaScript (ES6+), TypeScript, Python<br>
+**Frontend:** React, React Router, Redux<br>
+**Web:** HTML5, CSS3, REST APIs<br>
+**Tools:** Git, Webpack, Figma<br>
 **Architecture & Concepts:** MVP approach, OOP principles, Design patterns
 
-## 🐙 My key projects
+## 🐙 My Key Projects
 – SkillSwap - Social Network for Skill Exchange
 – Stellar Burgers – Web Application for Food Ordering
 
