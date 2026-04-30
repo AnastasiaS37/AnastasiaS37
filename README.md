@@ -5,7 +5,7 @@ I combine a technical mindset with a strong understanding of user needs and prod
 Logic, clarity, and structure are an important part of my development process. I enjoy building functional and visually appealing interfaces, with a focus on clean and maintainable code.
 
 ## 📗 Tech Stack
-### Languages:<br>
+**Languages:**<br>
 JavaScript (ES6+), TypeScript, Python<br>
 
 ### Frontend:<br>
