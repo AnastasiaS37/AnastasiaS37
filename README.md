@@ -1,16 +1,16 @@
-## I'm Anastasia, Frontend Developer 👩‍💻
+# I'm Anastasia, Frontend Developer 👩‍💻
 
-## 📗 Tech Stack
-**Languages:**
+# 📗 Tech Stack
+##Languages:##<br>
 – JavaScript (ES6+), TypeScript<br>
 – Python<br>
 – React, React Router, Redux<br>
 – HTML5, CSS3<br>
-**Tools:**
+**Tools:**<br>
 – Git<br>
 – Webpack<br>
 – Figma<br>
-**Architecture & Concepts:**
+**Architecture & Concepts:**<br>
 – Component-based architecture
 – OOP principles
 * Design patterns
