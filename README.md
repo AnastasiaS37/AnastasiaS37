@@ -10,6 +10,7 @@
 
 ## 🐙 My projects
 – SkillSwap - Social Network for Skill Exchange
+– Stellar Burgers – Web Application for Food Ordering
 
 ## ✉️ Contact
 anastasia.ser.sorokina@gmail.com
