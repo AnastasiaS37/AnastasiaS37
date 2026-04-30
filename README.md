@@ -9,7 +9,7 @@ Logic, clarity, and structure are an important part of my development process. I
 **Frontend:** React, React Router, Redux<br>
 **Web:** HTML5, CSS3, REST APIs<br>
 **Tools:** Git, Webpack, Figma<br>
-**Architecture & Concepts:** MVP approach, OOP principles, Design patterns<br>
+**Architecture & Concepts:** MVP pattern, OOP principles, Design patterns<br>
 
 ## 🐙 My Key Projects
 – SkillSwap - Social Network for Skill Exchange<br>
