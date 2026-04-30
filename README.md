@@ -1,7 +1,7 @@
 # I'm Anastasia, Frontend Developer 👩‍💻
 
-# 📗 Tech Stack
-##Languages:##<br>
+## 📗 Tech Stack
+###Languages:<br>
 – JavaScript (ES6+), TypeScript<br>
 – Python<br>
 – React, React Router, Redux<br>
