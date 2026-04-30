@@ -5,24 +5,19 @@ I combine a technical mindset with a strong understanding of user needs and prod
 Logic, clarity, and structure are an important part of my development process. I enjoy building functional and visually appealing interfaces, with a focus on clean and maintainable code.
 
 ## 📗 Tech Stack
-**Languages:**<br>
-JavaScript (ES6+), TypeScript, Python<br>
+**Languages:** JavaScript (ES6+), TypeScript, Python<br>
 
-### Frontend:<br>
-React, React Router, Redux
+**Frontend:** React, React Router, Redux
 
-### Web:<br>
-HTML5, CSS3, REST APIs
+**Web:** HTML5, CSS3, REST APIs
 
-### Tools:<br>
-Git, Webpack, Figma
+**Tools:** Git, Webpack, Figma
 
-### Architecture & Concepts:<br>
-MVP approach, OOP principles, Design patterns
+**Architecture & Concepts:** MVP approach, OOP principles, Design patterns
 
-## 🐙 My projects
-– SkillSwap - Social Network for Skill Exchange
-– Stellar Burgers – Web Application for Food Ordering
+## 🐙 My key projects
+* SkillSwap - Social Network for Skill Exchange
+* Stellar Burgers – Web Application for Food Ordering
 
 ## ✉️ Contact
 anastasia.ser.sorokina@gmail.com
