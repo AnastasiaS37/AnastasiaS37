@@ -1,10 +1,8 @@
 # I'm Anastasia, Frontend Developer 👩‍💻
 
-I combine technical skills with a strong understanding of user needs.
+I combine a technical mindset with a strong understanding of user needs and product quality.
 
-Logic, clarity, and structure are an important part of my development process. I enjoy building interfaces that are both functional and visually clean, with a strong focus on clean, maintainable code.
-
-In web development, I bring together a technical mindset with an appreciation for design and product quality.
+Logic, clarity, and structure are an important part of my development process. I enjoy building functional and visually appealing interfaces, with a focus on clean and maintainable code.
 
 ## 📗 Tech Stack
 ### Languages:<br>
