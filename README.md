@@ -1,23 +1,26 @@
 # I'm Anastasia, Frontend Developer 👩‍💻
 
+I combine technical skills with a strong understanding of user needs.
+
+Logic, clarity, and structure are an important part of my development process. I enjoy building interfaces that are both functional and visually clean, with a strong focus on clean, maintainable code.
+
+In web development, I bring together a technical mindset with an appreciation for design and product quality.
+
 ## 📗 Tech Stack
 ### Languages:<br>
-– JavaScript (ES6+), TypeScript<br>
-– Python<br>
-– React, React Router, Redux<br>
-– HTML5, CSS3<br>
-**Tools:**<br>
-– Git<br>
-– Webpack<br>
-– Figma<br>
-**Architecture & Concepts:**<br>
-– Component-based architecture
-– OOP principles
-* Design patterns
-– REST APIs<br>
+JavaScript (ES6+), TypeScript, Python<br>
 
-    Frontend: React, React Router, Redux
-* Web: HTML5, CSS3, REST APIs
+### Frontend:<br>
+React, React Router, Redux
+
+### Web:<br>
+HTML5, CSS3, REST APIs
+
+### Tools:<br>
+Git, Webpack, Figma
+
+### Architecture & Concepts:<br>
+MVP approach, OOP principles, Design patterns
 
 ## 🐙 My projects
 – SkillSwap - Social Network for Skill Exchange
