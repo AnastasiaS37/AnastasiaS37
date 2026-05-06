@@ -15,6 +15,7 @@ Logic, clarity, and structure are an important part of my development process. I
 – SkillSwap - Social Network for Skill Exchange<br>
 – Stellar Burgers – Web Application for Food Ordering<br>
 – Web-Larek – Online Shop<br>
+- Mesto - Interactive Web App<br>
 
 ## ✉️ Contact
 anastasia.ser.sorokina@gmail.com
