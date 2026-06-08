@@ -7,10 +7,10 @@ Logic, clarity, and structure are an important part of my development process. I
 ## 📗 Tech Stack
 **Frontend**: React | TypeScript | JavaScript (ES6+) | Redux<br>
 **UI**: HTML5 | CSS3 | SCSS | Responsive Design<br>
-**Testing**: Unit & Integration Testing | Jest | API Mocking
-**Software Engineering**: Frontend Architecture | OOP | Clean Code Principles | State Management
-**Backend**: REST APIs | Node.js | SQL
-**Tools**: Git | Webpack | Vite | CI/CD | Figma
+**Testing**: Unit & Integration Testing | Jest | API Mocking<br>
+**Software Engineering**: Frontend Architecture | OOP | Clean Code Principles | State Management<br>
+**Backend**: REST APIs | Node.js | SQL<br>
+**Tools**: Git | Webpack | Vite | CI/CD | Figma<br>
 **Additional**: Python
 
 ## 🐙 My Key Projects
